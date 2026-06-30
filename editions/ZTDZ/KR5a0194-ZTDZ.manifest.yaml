@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0194/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0194/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉皇宥罪錫福寶懺
+  date: '2015-08-28 23:40:44.096737'
+  source:
+    repository: kanripo
+    path: KR5a0194
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0194_000-ZTDZ.yaml, hash: 'sha256:e4bf787f818cf420102ace6f36cf29bab67a76b3cad80cdc2612e12aa7331112'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0194_000-ZTDZ.markers.yaml, hash: 'sha256:6d8a83010fdfe2b57a40d74e9036979b22a6d27474b24cf41be972a33a68eee4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0194_SJB_000-030516c
+    span:
+    - body
+    - 0
+    - 5849
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:3af1da145b0d502ddb94bd77ee65bdca6897128488a7e37240e3a38dfe7520d7

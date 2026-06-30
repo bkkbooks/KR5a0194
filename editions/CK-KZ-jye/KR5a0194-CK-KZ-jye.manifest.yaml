@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5a0194/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0194/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉皇宥罪錫福寶懺
+  date: '2015-08-28 23:40:44.096737'
+  source:
+    repository: kanripo
+    path: KR5a0194
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0194_000-CK-KZ-jye.yaml, hash: 'sha256:e55df11ebd405f334e661bb20868958bae716fd32f396f33b0aab843036c8e21'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0194_000-CK-KZ-jye.markers.yaml, hash: 'sha256:e70e807ca68917062fa8206fa7447dca14ff1c79006fa4b7d4837bfa5c5c0832'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0194_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 5849
+  label: 玉皇宥罪錫福寶懴
+  type: section
+  level: 1
+hash: sha256:ab2853829d3d619d3d6bb8d0d4596e5e90901c55247de7fe7d4bf07a405ea383

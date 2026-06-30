@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0194/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5a0194/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉皇宥罪錫福寶懺
+  date: '2015-08-28 23:40:44.096737'
+  source:
+    repository: kanripo
+    path: KR5a0194
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0194_000-YP-C.yaml, hash: 'sha256:bff9bee9954741bcda9def5517382b1f660bffc722b995fb35166f23f2575f57'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0194_000-YP-C.markers.yaml, hash: 'sha256:6bbc7183d279b72146fc9e659c1efb332e762186a54ed66daf82d54733c0ea20'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0194_YP-C_07miji-09-0039a
+    span:
+    - body
+    - 0
+    - 5849
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:47f094a3218291f668682ee06728a2d25fa5e3c3fe0c65f0878e5849d97c1761
